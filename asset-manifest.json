@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/drawnunder-react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/drawnunder-react/static/js/main.36d8b539.chunk.js",
+    "main.js.map": "/drawnunder-react/static/js/main.36d8b539.chunk.js.map",
+    "runtime-main.js": "/drawnunder-react/static/js/runtime-main.27aa6510.js",
+    "runtime-main.js.map": "/drawnunder-react/static/js/runtime-main.27aa6510.js.map",
+    "static/js/2.a5bbf318.chunk.js": "/drawnunder-react/static/js/2.a5bbf318.chunk.js",
+    "static/js/2.a5bbf318.chunk.js.map": "/drawnunder-react/static/js/2.a5bbf318.chunk.js.map",
+    "index.html": "/drawnunder-react/index.html",
+    "precache-manifest.8e0bb54548e554571c9c185986198d04.js": "/drawnunder-react/precache-manifest.8e0bb54548e554571c9c185986198d04.js",
+    "service-worker.js": "/drawnunder-react/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/drawnunder-react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a5bbf318.chunk.js.LICENSE.txt": "/drawnunder-react/static/js/2.a5bbf318.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/drawnunder-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27aa6510.js",
+    "static/js/2.a5bbf318.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.36d8b539.chunk.js"
+  ]
+}
